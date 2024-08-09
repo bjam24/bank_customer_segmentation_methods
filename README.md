@@ -12,7 +12,10 @@ The link to this event can be found in the repository description.
 There are many techniques used in this notebook, but only a fraction of them are presented here. Please refer to the notebook to learn about all the 
 techniques used.
 
-**Principal Component Analysis (PCA)**
+**Principal Component Analysis (PCA)** <br>
+<p float="left">
+<img src="images/3d_biplot.jpg" width="400"/>
+</p>
 
 **Clustering methods**
 - K-Means
