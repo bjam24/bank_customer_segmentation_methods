@@ -1,3 +1,5 @@
+<hr><b><span style="font-size:52px;"> Bank Customer Segmentation Methods </span></b>
+
 # Bank Customer Segmentation Methods
 ![image](https://github.com/user-attachments/assets/730df1ec-1882-46ab-962e-ed8ce2d38c9c)
 Yes, after many attempts, I created this picture using Generative AI. ;)
