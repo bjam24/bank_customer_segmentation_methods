@@ -18,12 +18,30 @@ techniques used.
 </p>
 
 **Clustering methods**
-- K-Means
-- DBSCAN
-- Agglomerative Clustering
-- Affinity Propagation
-- Spectral Clustering
-- Gaussian Mixture Model
+- K-Means <br>
+<p float="left">
+<img src="images/K-Means Clustering.jpg" width="400"/>
+</p>
+- DBSCAN <br>
+<p float="left">
+<img src="images/DBSCAN Clustering.jpg" width="400"/>
+</p>
+- Agglomerative Clustering <br>
+<p float="left">
+<img src="images/Agglomerative Clustering.jpg" width="400"/>
+</p>
+- Affinity Propagation <br>
+<p float="left">
+<img src="images/Affinity Propagation Clustering.jpg" width="400"/>
+</p>
+- Spectral Clustering <br>
+<p float="left">
+<img src="images/Spectral Clustering.jpg" width="400"/>
+</p>
+- Gaussian Mixture Model <br>
+<p float="left">
+<img src="images/Gaussian Mixture Model Clustering.jpg" width="400"/>
+</p>
 
 ## Installation
 To run this notebook, you'll need to have Jupyter Notebook and an Anaconda environment set up on your system.
