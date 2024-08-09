@@ -8,8 +8,8 @@ business sector for this application is Finance and Banking, where understanding
 of any institution providing financial services. This project was also created for a **Kaggle** challenge called **Credit Card Dataset for Clustering**.
 The link to this event can be found in the repository description.
 
-## Installation
 
+## Installation
 To run this notebook, you'll need to have Jupyter Notebook and an Anaconda environment set up on your system.
 
 #### 1. Clone the repository <br>
