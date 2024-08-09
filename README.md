@@ -21,7 +21,7 @@ techniques used.
 - K-Means <br>
 <p float="left">
 <img src="images/K-Means Clustering.jpg" width="400"/>
-</p>
+</p><br>
 - DBSCAN <br>
 <p float="left">
 <img src="images/DBSCAN Clustering.jpg" width="400"/>
