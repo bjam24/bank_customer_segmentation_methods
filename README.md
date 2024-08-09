@@ -10,6 +10,32 @@ The link to this event can be found in the repository description.
 
 ## Installation
 
+To run this notebook, you'll need to have Jupyter Notebook and an Anaconda environment set up on your system.
+
+### 1. Clone the repository <br>
+Open your terminal or command prompt and run: <br>
+```bash
+git clone https://github.com/bjam24/bank_customer_segmentation_methods.git
+cd bank_customer_segmentation_methods
+```
+
+### 2. Create and activate a new Anaconda environment <br>
+```bash
+conda create --name myenv python=3.8
+conda activate myenv
+```
+
+### 3. Install required packages <br>
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Launch Jupyter Notebook
+```bash
+jupyter notebook
+```
+
+### 5. Navigate to the notebook and run it
 
 ## Technology stack
 - Python programming language
