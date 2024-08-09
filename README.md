@@ -8,51 +8,19 @@ business sector for this application is Finance and Banking, where understanding
 of any institution providing financial services. This project was also created for a **Kaggle** challenge called **Credit Card Dataset for Clustering**.
 The link to this event can be found in the repository description.
 
-## Topics
-**Data Preprocessing**
-- Checking Data Types of Variables
-- Searching for Duplicates
-- Missing Values Calculation and Removal
-- Renaming Columns
-- Handling Inconsistent Data
-- Feature Engineering
-- Data Cleaning
-**Exploratory Data Analysis (EDA)**
-- Statistics Summary
-- Univariate Analysis
+## Topics 
+There are many techniques used in this notebook, but only a fraction of them are presented here. Please refer to the notebook to learn about all the 
+techniques used.
 
+**Principal Component Analysis (PCA)**
 
-
-
-
-* [5. Data Transformation](#chapter5)
-    * [5.1 Handling Skewness](#section_5_1)
-        * [5.1.1 Quantile Transformation](#sub_section_5_1_1)
-        * [5.1.2 Yeo-Johnson Transformation](#sub_section_5_1_2)
-    * [5.2 Data Scaling](#section_5_2)
-* [6. Data Reduction](#chapter6)
-    * [6.1 Searching Highly Correlated Variables](#section_6_1)
-    * [6.2 Principal Component Analysis (PCA)](#section_6_2)
-* [7. Clustering methods](#chapter7)
-    * [7.1 K-Means](#section_7_1)
-        * [7.1.1 Silhouette Score Plot](#sub_section_7_1_1)
-        * [7.1.2 Silhouette Diagram](#sub_section_7_1_2)
-        * [7.1.3 Algorithm](#sub_section_7_1_3)  
-    * [7.2 DBSCAN](#section_7_2)
-        * [7.2.1 k-NN Distance Plot](#sub_section_7_2_1)
-        * [7.2.2 Searching optimal min_samples](#sub_section_7_2_2)
-        * [7.2.3 Algorithm](#sub_section_7_2_3)
-    * [7.3 Agglomerative Clustering](#section_7_3)
-        * [7.3.1 Denrogram](#sub_section_7_3_1)
-        * [7.3.2 Algorithm](#sub_section_7_3_2)
-    * [7.4 Affinity Propagation](#section_7_4)
-    * [7.5 Spectral Clustering](#section_7_5)
-        * [7.5.1 Silhouette Score Plot](#sub_section_7_5_1)
-        * [7.5.2 Algorithm](#sub_section_7_5_2)
-    * [7.6 Gaussian Mixture Model](#section_7_6)
-        * [7.6.1 BIC / AIC Criterion](#sub_section_7_6_1)
-        * [7.6.2 Algorithm](#sub_section_7_6_2)
-* [8. Summary](#chapter8)
+**Clustering methods**
+- K-Means
+- DBSCAN
+- Agglomerative Clustering
+- Affinity Propagation
+- Spectral Clustering
+- Gaussian Mixture Model
 
 ## Installation
 To run this notebook, you'll need to have Jupyter Notebook and an Anaconda environment set up on your system.
