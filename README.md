@@ -2,6 +2,10 @@
 ![image](https://github.com/user-attachments/assets/730df1ec-1882-46ab-962e-ed8ce2d38c9c)
 Yes, after many attempts, I created this picture using Generative AI. ;)
 ## Description
+**Medium Article** https://medium.com/@bjamiolkowski22/bank-customer-segmentation-methods-739301425730
+
+**Kaggle Competition** https://www.kaggle.com/code/bartomiejjamiokowski/bank-customer-segmantation-methods-with-pca
+
 This project focuses on **Clustering Bank Customers** using various methods available in the **scikit-learn** library. My goal was to gain insights 
 into the nature of clustering methods and learn how to use **scikit-learn** to implement these techniques in practical problems. A relevant 
 business sector for this application is Finance and Banking, where understanding different customer segments is crucial for the survival 
